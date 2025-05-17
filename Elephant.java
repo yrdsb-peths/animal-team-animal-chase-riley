@@ -1,7 +1,7 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Elephant here.
+ * Elephant our hero
  * 
  * @author (Riley) 
  * @version (May 2025)
@@ -58,7 +58,6 @@ public class Elephant extends Actor
             imageIndex = (imageIndex + 1) % idleLeft.length;
         }
     }
-    
     
     
     public void act()
